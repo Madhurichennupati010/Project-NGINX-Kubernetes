@@ -109,7 +109,7 @@ Recommended Configuration
 📷 Screenshot:
 
 ```
-screenshots/01-ec2-instance.png
+screenshots/ec2-instance.png
 ```
 
 ---
@@ -207,7 +207,7 @@ minikube   Ready
 📷 Screenshot
 
 ```
-screenshots/03-minikube-start.png
+screenshots/minikube.png
 ```
 
 ---
@@ -237,7 +237,7 @@ Running
 📷 Screenshot
 
 ```
-screenshots/05-kubectl-get-pods.png
+screenshots/kubectl-get-pods.png
 ```
 
 ---
@@ -275,7 +275,7 @@ http://<EC2-Public-IP>:8080
 📷 Screenshot
 
 ```
-screenshots/08-browser-output.png
+screenshots/final-output.png
 ```
 
 ---
